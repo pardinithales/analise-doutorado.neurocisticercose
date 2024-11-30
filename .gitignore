@@ -1,0 +1,16 @@
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignorar diretórios específicos
+node_modules/
+__pycache__/
+.vscode/
+.idea/
+
+# Ignorar arquivos do Cursor
+cursor/progresso.md
+*.cursor
